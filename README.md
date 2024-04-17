@@ -6,14 +6,14 @@
 
 <div align="center">
   
-🔭 Eu sou desenvolvedor Back-end e atualmente trabalho com Java
+🔭 Eu sou Quality Engineer e atualmente trabalho RestAssured e Java
 
 
-🌱 Também estou estudando typescript e angular
+🌱 Também estudando Java
 
-💬 Sou entusiasta no desenvolvimento Java para APIs
+💬 Sou entusiasta em automação de APIs
 
-😄 Pronomes: Ele/Dele
+
 </div>
 <div align="center">
   <a href="https://github.com/MateusSouzaAlves">
